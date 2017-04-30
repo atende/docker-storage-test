@@ -1,4 +1,5 @@
 # docker-storage-test
+
 Image to test docker storage plugins. It periodically generates
  random string and concatenate in a data.txt file in **/storage**  folder.
 
